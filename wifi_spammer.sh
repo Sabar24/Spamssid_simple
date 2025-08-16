@@ -75,7 +75,7 @@ function start_spam() {
 # Menu sederhana
 function show_menu() {
     echo "=============================="
-    echo "Wi-Fi SSID Spammer Menu"
+    echo "Wi-Fi SSID Spammer Menu by@sabar__24"
     echo "1) Start broadcast"
     echo "2) Stop broadcast"
     echo "X) Exit"
