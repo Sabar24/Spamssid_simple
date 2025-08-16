@@ -1,0 +1,6 @@
+ sudo apt install aircrack-ng hostapd dnsmasq -y
+ iwconfig
+INTERFACE="wlp2s0"  # ganti sesuai interface Wi-Fi
+chmod +x wifi_spammer.sh
+sudo ./wifi_spammer.sh
+
